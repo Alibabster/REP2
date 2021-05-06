@@ -1,0 +1,33 @@
+{
+  "posts": [{
+  "id": 1,
+  "title": "Reducing corruption in East Kazakhstan",
+  "text": "As a result of recent inspections, a 15% decrease in the level of corruption in East Kazakhstan was noted. This is due to the increased incidence of corruption detection in the past year.",
+  "img": "https://obankax.com/wp-content/uploads/2017/12/blobid1513806821304-640x469.jpg"
+  }, {
+  "id": 2,
+  "title": "Civil servants involved in fraud have been identified and detained",
+  "text": "Two days ago, civil servants involved in fraud were identified and detained. The suspects are accused of fraudulent manipulation of state Tendars.",
+  "img": "https://24.kz/media/k2/items/cache/e9b505f943ac78aefbe157f42c5d9432_XL.jpg"
+  }, {
+  "id": 3,
+  "title": "Citizens who reported cases of corruption and fraud were rewarded",
+  "text": "Over the past half a year, 15 citizens have been awarded for reporting cases of corruption and fraud.",
+  "img": "https://tobolinfo.kz/wp-content/uploads/2018/10/1509346981_tenge.jpg"
+  }, {
+  "id": 4,
+  "title": "The school principal was convicted of fraud",
+  "text": "According to the data, the director made arbitrary penalties and extortions from schoolchildren and school teachers for 4 years, and also blackmailed employees to dismiss in case of refusal to pay the extortions.",
+  "img": "https://retina.news.mail.ru/pic/57/81/main43187953_c6d955de9de6446566fb36c0f1d9efea.jpg"
+  }, {
+  "id": 5,
+  "title": "4 law enforcement officers were fired",
+  "text": "Yesterday, 4 law enforcement officers were fired for accepting a bribe totaling 20,000,000 tenge.",
+  "img": "https://rus.azattyq-ruhy.kz/cache/imagine/main_page_full/uploads/news/2020/02/05/5e3ae7917afc0712984946.jpg"
+  }, {
+  "id": 6,
+  "title": "It was instructed to find new executors of the state order for the construction of a residential building",
+  "text": "It was instructed to find new executors of the state order for the construction of a residential building.",
+  "img": "https://baigenews.kz/upload/iblock/a29/ca71252387cd65e0d26dab26efcaf44a_crop_l_66_t_9_w_931_h_524.jpg"
+  }]
+}
